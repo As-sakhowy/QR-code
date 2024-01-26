@@ -21,7 +21,7 @@ body{
     background-color:hsl(0, 0%, 100%);
     border-radius: 20px;
     justify-content: center;
-    height: 550px;
+    height: 600px;
 }
 img{
     width: 370px;
@@ -58,7 +58,7 @@ h2{
         background-color:hsl(0, 0%, 100%);
         border-radius: 20px;
         justify-content: center;
-        height: 550px;
+        height: 600px;
         place-items: center;
     }
     img{

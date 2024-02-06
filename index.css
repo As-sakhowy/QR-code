@@ -16,8 +16,8 @@ body{
 /*     font:url("https://fonts.google.com/specimen/Outfit") */
 }
 .container{
-    /* display: grid;
-    grid-column: auto; */
+/*     /* display: grid; */
+    grid-column: auto; 
     margin: auto;
     width:400px;
     padding:20px;
